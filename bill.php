@@ -159,10 +159,10 @@ if(empty($_SESSION['login_user']))
 						</tr>
 						<tr>
 							<td valign="top">
-								New Button
+								New Input Box
 							</td>
 							<td valign="top">
-								<button>New</button>
+								<input type="text">
 							</td>
 						</tr>
 						
