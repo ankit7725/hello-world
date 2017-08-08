@@ -157,6 +157,14 @@ if(empty($_SESSION['login_user']))
 								<input type="radio" name="mode_of_payment" value="online">Online
 							</td>
 						</tr>
+						<tr>
+							<td valign="top">
+								New Input Box
+							</td>
+							<td valign="top">
+								<input type="text">
+							</td>
+						</tr>
 						
 					</table>
 				</form>
